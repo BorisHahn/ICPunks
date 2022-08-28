@@ -1,0 +1,11 @@
+.plan__title {
+  padding: 0;
+  margin: 0;
+  font-family: 'Retro';
+  font-size: 34px;
+  line-height: 143%;
+  font-weight: 400;
+  color: #47BE68;
+  text-align: center;
+  max-width: 1053px;
+}

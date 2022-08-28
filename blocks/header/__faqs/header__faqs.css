@@ -1,0 +1,10 @@
+.header__faqs {
+  margin: 0;
+  padding: 0;
+  height: 18px;
+  width: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}

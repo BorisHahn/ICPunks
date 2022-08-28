@@ -1,0 +1,17 @@
+.footer__icons {
+margin: 0;
+padding: 0;
+height: 18px;
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+font-family: 'Roboto Mono';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.2em;
+text-transform: uppercase;
+color: #FFFFFF;
+}

@@ -1,0 +1,12 @@
+.intro__glasses {
+  position: absolute;
+  top: 30px;
+  left: -43px;
+  width: 198px;
+  height: 155px;
+  background-image: url("../../../img/glass.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 1;
+}

@@ -1,0 +1,14 @@
+.footer__copyrights {
+    padding: 0;
+    padding-top: 21px;
+    margin: 0;
+    width: 375px;
+    height: 20px;
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 143%;
+    letter-spacing: -0.02em;
+    color: rgba(255, 255, 255, 0.5);
+}

@@ -1,0 +1,11 @@
+.form__subtitle {
+  max-width: 549px;
+  padding: 0;
+  padding-top: 13px;
+  margin: 0;
+  font-family: 'Roboto Mono';
+  font-size: 18px;
+  line-height: 133%;
+  font-weight: 300;
+  color: white;
+}

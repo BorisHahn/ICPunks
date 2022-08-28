@@ -1,0 +1,10 @@
+.intro__joker {
+  position: absolute;
+  top: 14px;
+  right: 0;
+  width: 641px;
+  height: 641px;
+  background-image: url("../../../img/joker.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}

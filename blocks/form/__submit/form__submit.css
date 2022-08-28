@@ -1,0 +1,18 @@
+.form__submit {
+padding: 0;
+margin: 33px 0 55px 0;
+width: 195px;
+height: 54px;
+background: #2DA4E0;
+border-radius: 10px;
+font-family: 'Roboto Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 96%;
+text-align: center;
+letter-spacing: 0.2em;
+text-transform: uppercase;
+color: #FFFFFF;
+border: none;
+}

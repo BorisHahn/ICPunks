@@ -1,0 +1,17 @@
+.cards__item {
+  width: 197px;
+  height: 358px;
+  background-color: #201F23;
+  box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 27px 20px 35px;
+  margin-right: 22px;
+}
+
+.cards__item:last-child {
+  margin-right: 0;
+}

@@ -1,0 +1,20 @@
+.intro__button {
+  margin: 50px 0 60px 0;
+  padding: 0;
+  width: 507px;
+  height: 60px;
+  background: #2DA4E0;
+  border-radius: 10px;
+  font-family: 'Roboto Mono';
+  font-size: 25px;
+  line-height: 96%;
+  font-weight: 700;
+  color: #FFFFFF;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+  border: none;
+  outline: none;
+}

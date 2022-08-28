@@ -1,0 +1,11 @@
+.intro__helm {
+  position: absolute;
+  top: 275px;
+  left: 0;
+  width: 319px;
+  height: 375px;
+  background-image: url("../../../img/helmet2.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: 1;
+}

@@ -1,0 +1,9 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-left: 205px;
+    padding-top: 86px;
+    background: radial-gradient(50% 50% at 50% 50%, #121214 0%, #0F131B 100%);
+}

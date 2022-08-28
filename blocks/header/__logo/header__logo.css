@@ -1,0 +1,10 @@
+.header__logo {
+  margin: 0;
+  padding: 0;
+  width: 81px;
+  height: 38px;
+  border: 1px #121214;
+  background-image: url("../../../img/logo.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}

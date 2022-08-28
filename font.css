@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Roboto Mono';
+    font-style:  normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url("./fonts/RobotoMono-Thin.ttf");
+  }
+  @font-face {
+    font-family: 'Roboto Mono';
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("./fonts/RobotoMono-Regular.ttf");
+  }
+  @font-face {
+    font-family: 'Roboto Mono';
+    font-style:  normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("./fonts/RobotoMono-Bold.ttf");
+  }
+  @font-face {
+    font-family: 'Retro';
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("./fonts/retro.ttf");
+  }
+  

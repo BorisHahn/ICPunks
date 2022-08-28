@@ -1,0 +1,10 @@
+.plan-list {
+    margin: 0;
+    padding-right: 80px;
+    padding-top: 122px;
+    padding-bottom: 110px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-self: flex-end;
+}
